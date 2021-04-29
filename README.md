@@ -4,7 +4,7 @@
 
 - Frontend Developer at LG UPLUS
 
-## Interest
+## Tech Stack
 
 - Javascript, Typescript
 - React
