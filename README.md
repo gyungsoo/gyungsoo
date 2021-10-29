@@ -9,6 +9,8 @@
 - Javascript, Typescript
 - React
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyungsoo)](https://github.com/gyungsoo/github-readme-stats)
+
 <!--
 **gyungsoo/gyungsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
